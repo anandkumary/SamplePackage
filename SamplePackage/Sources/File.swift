@@ -7,9 +7,9 @@
 
 import Foundation
 
-public struct MyClass {
+public struct myClass {
     
-   public func add(a: Int, b: Int) -> Int {
-       return a + b
+    public func add(a: Int, b: Int) -> Int {
+        return a + b
     }
 }
