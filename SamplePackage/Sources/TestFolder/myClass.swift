@@ -9,6 +9,8 @@ import Foundation
 
 public struct myClass {
     
+    public init()
+    
     public func add(a: Int, b: Int) -> Int {
         return a + b
     }
